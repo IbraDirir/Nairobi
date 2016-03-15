@@ -1,0 +1,12 @@
+header{
+background: url(images/welcomeNai.jpg);
+background-size: cover;
+height: 700px;
+background-repeat: no-repeat;
+background-position:  center fixed;
+}
+h1{
+text-align: center;
+font-family: cursive, serif, "Arial Black";
+font-size: 5em;
+}
