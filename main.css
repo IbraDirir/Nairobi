@@ -15,12 +15,21 @@ font-size: 5em;
 .primary-content{
 float:left;
 width: 45%;
+margin: auto;
 display: inline;
+background: orange;
 }
 .secondary-content{
 float:right;
 width: 45%;
 display: inline;
+margin: auto;
+background: seagreen;
+
+}
+.primary-content,
+.secondary-content{
+margin-bottom: 100px;
 }
 
 footer
