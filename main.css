@@ -3,10 +3,22 @@ background: url(images/welcomeNai.jpg);
 background-size: cover;
 height: 700px;
 background-repeat: no-repeat;
-background-position:  center fixed;
+background-position:  center;
+background-attachment: fixed;
 }
 h1{
 text-align: center;
 font-family: cursive, serif, "Arial Black";
 font-size: 5em;
+}
+
+.primary-content{
+float:left;
+width: 45%;
+display: inline;
+}
+.secondary-content{
+float:right;
+width: 45%;
+display: inline;
 }
